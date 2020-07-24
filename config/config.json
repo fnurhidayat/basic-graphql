@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "fnurhidayat",
+    "password": "awurenwae",
+    "database": "graph_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "fnurhidayat",
+    "password": "awurenwae",
+    "database": "graph_development",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "fnurhidayat",
+    "password": "awurenwae",
+    "database": "graph_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
